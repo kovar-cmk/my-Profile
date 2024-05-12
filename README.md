@@ -4,7 +4,7 @@
     </a>
   <br />
 
-  <div   >
+  <div align="center"  >
    <img src="https://imgs.search.brave.com/9FJucD5uOYdo_z1TCQZsXm0UEUICV9wxULVlQvINB7Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzg2MV9j/aXNjby5qcGc" alt="Networking" width="80" align="center"/>
     <img  src="https://imgs.search.brave.com/uTDshCZgMWXVSG8tf79wLxcPrZVwJIeKtVFPs0hvhyk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1X3ln/djVnL3N0eWxlcy9j/b21tdW5pdHlJY29u/X21rczJvejlueGxz/YzEucG5n" alt="Penetration Testing" width="80" align="center"/>
     <img src="https://imgs.search.brave.com/Rxy31QAXB_98y8uotptMi9C7MJ3uysH1IY1PHDHbuF8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q4L1JlZF9IYXRf/bG9nby5zdmc.svg" alt="System Administratrion" width="80" align="center"/>
