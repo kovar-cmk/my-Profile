@@ -1,4 +1,4 @@
-# <p align="center">Kovar CMK — Cybersecurity Engineer</p>
+# <p align="center">Bengina Abdelbassit — Cybersecurity Engineer</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0040&height=200&section=header&text=KOVAR%20CMK&fontSize=80&animation=fadeIn&fontAlignY=38" />
