@@ -1,7 +1,7 @@
 # <p align="center">Bengina Abdelbassit — Cybersecurity Engineer</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0040&height=200&section=header&text=Bengina%Abdelbassit&fontSize=80&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0040&height=200&section=header&text=Bengina%20Abdelbassit&fontSize=80&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
